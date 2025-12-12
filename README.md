@@ -1,5 +1,5 @@
-## **ShopImpact: A Vibrant Path to Conscious Shopping**
-
+## **ShopImpact: A Vibrant Path to Conscious Shopping** Link: [
+](https://shopimpact-8zgwntuc3xa7ppk9qy8s7n.streamlit.app/) 
 **ShopImpact** is a dynamic and visually captivating web application that helps users understand the environmental impact of their daily purchases. It transforms the idea of “sustainable shopping” into an interactive, colorful, and rewarding experience. Built using **Python and Streamlit**, the app runs completely online — meaning it can be deployed directly from GitHub to Streamlit Cloud without requiring any software installation.
 
 At its heart, ShopImpact encourages users to reflect on what they buy, calculate the estimated carbon footprint of their purchases, and discover greener alternatives. It merges **education, fun, and design** into one vibrant dashboard that glows with neon color themes, subtle transitions, and lively animations — making sustainability feel modern and exciting.
